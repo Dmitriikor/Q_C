@@ -65,7 +65,21 @@
     "chrono": "cpp",
     "forward_list": "cpp",
     "string": "cpp",
-    "sstream": "cpp"
+    "sstream": "cpp",
+    "any": "cpp",
+    "array": "cpp",
+    "codecvt": "cpp",
+    "list": "cpp",
+    "map": "cpp",
+    "unordered_map": "cpp",
+    "filesystem": "cpp",
+    "functional": "cpp",
+    "numeric": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "valarray": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp"
 },
 "C_Cpp.default.cppStandard": "c++23",
 "C_Cpp.default.cStandard": "c17"

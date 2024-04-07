@@ -1,0 +1,18 @@
+{
+    "ticket_1": {
+        "A1": "0\n",
+        "A2": "0\n",
+        "A3": "0\n",
+        "Counter": 1,
+        "Q": "0\n",
+        "explanation": "0\n"
+    },
+    "ticket_2": {
+        "A1": "1\n",
+        "A2": "1\n",
+        "A3": "1\n",
+        "Counter": 2,
+        "Q": "1\n",
+        "explanation": "1\n"
+    }
+}
